@@ -1,0 +1,2 @@
+# dfaanimation
+belirli sonlu otomat
